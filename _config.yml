@@ -5,7 +5,7 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: //yurkiv.github.io
 #baseurl: "/blog"
 
 
@@ -41,7 +41,8 @@ bing_verify:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter: rouge
+#highlighter: rouge
+highlighter: pygments
 markdown:    kramdown
 gems:
   - jekyll-sitemap
