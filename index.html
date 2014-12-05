@@ -30,7 +30,8 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+        {{ post.content | split: '<!-- more -->' | first }}
+        <a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url"><strong>Читать дальше</strong></a>
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
