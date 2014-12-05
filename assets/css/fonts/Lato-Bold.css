@@ -1,0 +1,11 @@
+/* Webfont: Lato-Bold */@font-face {
+    font-family: 'Lato';
+    src: url(asset_path('Lato-Bold.eot')); /* IE9 Compat Modes */
+    src: url(asset_path('Lato-Bold.eot?#iefix')) format('embedded-opentype'), /* IE6-IE8 */
+         url(asset_path('Lato-Bold.woff')) format('woff'), /* Modern Browsers */
+         url(asset_path('Lato-Bold.ttf')) format('truetype');
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 700;
+}
+
