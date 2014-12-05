@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Post with Images"
+title: "Гальмобатл"
 description: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
 ---

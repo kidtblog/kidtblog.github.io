@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "A Post with a Video"
-description: "Custom written post descriptions are the way to go... if you're not lazy."
-tags: [sample post, video]
+title: "Видео с Трахтемирова"
+description: 
+tags: [kidt, video]
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+Трахтемиров 2014
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
+<iframe width="560" height="315" src="//www.youtube.com/embed/DLd4nseRihg" frameborder="0"> </iframe>
 
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
+Эта парадигматическая страна, в которой жаренные члены предложения залетают прямо в рот. Даже всемогущая пунктуация не имеет власти над рыбными текстами, ведущими безорфографичный образ жизни.
 
-{% highlight html %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
-{% endhighlight %}
+Однажды одна маленькая строчка рыбного текста по имени Lorem ipsum решила выйти в большой мир грамматики. Великий Оксмокс предупреждал ее о злых запятых, диких знаках вопроса и коварных точках с запятой, но текст не дал сбить
+
+Трахтемиров 2013. Было весело:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/fL63pNYXEt8" frameborder="0"> </iframe>
+
+Далеко-далеко за словесными горами в стране гласных и согласных живут рыбные тексты.
+
+Вдали от всех живут они в буквенных домах на берегу Семантика большого языкового океана. Маленький ручеек Даль журчит по всей стране и обеспечивает ее всеми необходимыми правилами.
